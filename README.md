@@ -5,7 +5,7 @@
 * 💻 This is an interactive blog web app made with made with NextJS, ReactJS, TailwindCSS, GraphQL and hygraph CMS.
 * 🌍 Website:  https://hengine-blog-1.vercel.app/
 * 💞️ I’m looking to collaborate on JS projects 
-* 📫 How to reach me chidike.henry@gmail.com
+* 📫 How to reach me blueflash0918@gmail.com
 
 
 ## Introduction
