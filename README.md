@@ -1,11 +1,7 @@
 ## Hengine-Blog
 ### [Live Site](https://hengine-blog-1.vercel.app/)
 
-https://user-images.githubusercontent.com/30509335/227918031-7d8edf01-95c3-49d5-a88e-241461cbe00c.mov
-
 ## About
-* 👋 Hi, I’m Chidike Henry 
-* 😎 I’m a MERN fullstack engineer
 * 💻 This is an interactive blog web app made with made with NextJS, ReactJS, TailwindCSS, GraphQL and hygraph CMS.
 * 🌍 Website:  https://hengine-blog-1.vercel.app/
 * 💞️ I’m looking to collaborate on JS projects 
@@ -24,13 +20,6 @@ You'll also work with HyGraph-CMS. HygraphCMS is a headless content management s
 * ReactJS
 * NextJS
 * GraphQL
-
-## Author
-
-#### 👤 Author1
-- GitHub: [@lacegiovanni17]https://github.com/lacegiovanni17
-- Twitter: [@ChidikeC] https://twitter.com/ChidikeC
-- LinkedIn: [LinkedIn]https://www.linkedin.com/in/chidike-chizoba-25628a40/
 
 ## Contributing 
 Contributions, issues, and feature requests are welcome!
